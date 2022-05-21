@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: "inter", "sans-serif";
+  font-family: "inter", sans-serif;
 }
 
 /* Navigation bar*/
@@ -45,7 +45,7 @@ nav ul {
   color: #041836;
   font-size: 16px;
   font-weight: 400;
-  font-family: "Inter, sans serif";
+  font-family: "Inter", sans-serif;
   font-style: normal;
   text-decoration: none;
   line-height: 19px;
@@ -80,7 +80,7 @@ nav ul {
   width: 525px;
   height: 64px;
 
-  font-family: "Poppins san-serif";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 56px;
@@ -94,7 +94,7 @@ nav ul {
   width: 435px;
   height: 24px;
 
-  font-family: "Avenir sans-serif";
+  font-family: "Avenir", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -118,7 +118,7 @@ nav ul {
   width: 50px;
   height: 17px;
 
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
@@ -135,7 +135,7 @@ nav ul {
   width: 50px;
   height: 17px;
 
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
@@ -197,7 +197,7 @@ nav ul {
   width: 219px;
   height: 44px;
 
-  font-family: "Avenir sans-serif";
+  font-family: "Avenir", sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 32px;
@@ -213,7 +213,7 @@ nav ul {
   width: 1216px;
   height: 81px;
 
-  font-family: "Avenir sans-serif";
+  font-family: "Avenir", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -291,7 +291,7 @@ nav ul {
   height: 256px;
   left: 777px;
 
-  font-family: "Poppins sans-serif";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 48px;
@@ -308,7 +308,7 @@ nav ul {
   height: 64px;
   left: 777px;
   padding-top: 49px;
-  font-family: "Roboto sans-serif";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -401,7 +401,7 @@ nav ul {
   left: 1094px;
   top: 3644px;
 
-  font-family: "Roboto san-serif";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -412,7 +412,7 @@ nav ul {
 }
 .footer p {
   color: white;
-  font-family: "Roboto san-serif";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
