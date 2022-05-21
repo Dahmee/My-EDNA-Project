@@ -1,3 +1,9 @@
+.parent-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
 * {
   box-sizing: border-box;
   margin: 0;
@@ -56,12 +62,14 @@ nav ul {
 .header-wrapper {
   background-image: url(images/header-image.png);
   background-color: #041836;
+  background-position: 13px 10px;
+  background-repeat: no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
   overflow: hidden;
   margin: 0 auto;
-  width: 100;
+  width: 1440px;
   height: 740px;
   padding-left: 13px;
   padding-top: 10px;
@@ -170,6 +178,8 @@ nav ul {
   border-radius: 20px;
 }
 .page2 {
+  width: 1440px;
+  height: 1024px;
   position: relative;
   display: block;
   padding: 0 0 0 0;
@@ -256,7 +266,8 @@ nav ul {
 /* The blue background */
 .blue-background {
   background-color: #041836;
-  height: 800px;
+  width: 1440px;
+  height: 728px;
   z-index: 10;
   position: relative;
 }
@@ -264,6 +275,8 @@ nav ul {
 .page3-container {
   position: relative;
   display: flex;
+  height: 1024px;
+  width: 1440px;
 }
 
 .page3-content-wrapper {
@@ -378,14 +391,18 @@ nav ul {
   border: 1px solid #000000;
   transform: rotate(90deg);
 }
+footer {
+  position: relative;
+}
 
 .blue-background2 {
   background-color: #041836;
-  display: absolute;
+  display: relative;
+  height: 414px;
+  width: 1440px;
 }
 .footer-wrapper {
   display: flex;
-  height: 414px;
 
   align-items: center;
   justify-content: space-around;
